@@ -1,0 +1,2 @@
+\Users\\Renan\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\evcc4g3m.default\\places.sqlite
+\Users\\Renan\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History
